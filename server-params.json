@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+    	"ParameterValue": "Abdulmalik-Udacity-Project-2"
+	},
+  	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t2.medium"
+	},
+	{
+		"ParameterKey": "AMItoUse",
+		"ParameterValue": "ami-0729e439b6769d6ab"
+	}
+]
